@@ -1,0 +1,29 @@
+{
+  "name": "read-me-generator.io",
+  "version": "1.0.0",
+  "description": "This is a readMe Generator that makes it easy to make readMes",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "inquirer": "^7.1.0",
+    "readme-md-generator": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RadioJackie/Read-Me-Generator.io.git"
+  },
+  "keywords": [
+    "ReadMe",
+    "Generator"
+  ],
+  "author": "Jacob Peters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RadioJackie/Read-Me-Generator.io/issues"
+  },
+  "homepage": "https://github.com/RadioJackie/Read-Me-Generator.io#readme"
+}
