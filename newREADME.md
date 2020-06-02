@@ -2,7 +2,7 @@
 
 var result = str.link(""); 
 
-# 
+# ReadMe-Generator.io
 
 ## Description
 
@@ -24,7 +24,7 @@ var result = str.link("");
 
 ## License
 
-
+ISC
 
 ## Contributing
 
