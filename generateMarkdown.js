@@ -7,13 +7,21 @@ var result = str.link("");
 
 ## Description
 
+${data.Description}
+
 ## Table of Contents
 
-[Installation](#installation)
-[Usage](#usage)
-[License](#license)
-[Contributing](#contributing)
-[Testing](#testing)
+* [Installation](#installation)
+
+* [Usage](#usage)
+
+* [License](#license)
+
+* [Contributing](#contributing)
+
+* [Testing](#testing)
+
+*[Demo](#GIF)
 
 ## Installation
 

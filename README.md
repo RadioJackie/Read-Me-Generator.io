@@ -1,10 +1,11 @@
 # Read-Me-Generator.io
 
-
-var result = str.link(""); 
+![demo](img/ReadMePic.jpg)
 
 
 ## Description
+
+A command-line application that will allow for quick and easy generation of a project README to get started quickly. This will allow a project creator to spend more time working on finishing the project and less time creating a good README.
 
 ## Table of Contents
 
@@ -20,16 +21,13 @@ var result = str.link("");
 
 ## Usage
 
-
+![demo]
 
 ## License
 
-ISC
-
-## Contributing
+* ISC
 
 ## Tests
 
-There are no included tests for this application. Please contact the author if you have any questions or issues.
-
+* Jest
 

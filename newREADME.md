@@ -2,25 +2,33 @@
 
 var result = str.link(""); 
 
-# ReadMe-Generator.io
+# ReadMe Gen
 
 ## Description
 
+undefined
+
 ## Table of Contents
 
-[Installation](#installation)
-[Usage](#usage)
-[License](#license)
-[Contributing](#contributing)
-[Testing](#testing)
+* [Installation](#installation)
+
+* [Usage](#usage)
+
+* [License](#license)
+
+* [Contributing](#contributing)
+
+* [Testing](#testing)
+
+*[Demo](#GIF)
 
 ## Installation
 
-
+npm i
 
 ## Usage
 
-
+It is used to streamline the readme process
 
 ## License
 
@@ -30,6 +38,6 @@ ISC
 
 ## Tests
 
-There are no included tests for this application. Please contact the author if you have any questions or issues.
+Jest
 
 

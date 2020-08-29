@@ -26,7 +26,7 @@ const questions = [
     {
         type: "input",
         name: "usage",
-        message: "Eescribe how the application is used: "
+        message: "Describe how the application is used: "
     },
     {
         type: "input",
