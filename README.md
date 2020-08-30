@@ -17,11 +17,11 @@ A command-line application that will allow for quick and easy generation of a pr
 
 ## Installation
 
-
+npm i
 
 ## Usage
 
-![demo]
+![demo](img/Demo.gif)
 
 ## License
 

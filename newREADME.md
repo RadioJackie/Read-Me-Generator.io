@@ -1,26 +1,27 @@
 
+ 
 
-var result = str.link(""); 
-
-# ReadMe Gen
+# ReadME Generator
 
 ## Description
 
-undefined
+For this project we were supposed to create a command-line application that generates a README.md from a user's input. When you type in the command node index.js it will prompt you through a series of questions.
 
 ## Table of Contents
+  * [Installation](#installation)
 
-* [Installation](#installation)
+  * [Usage](#usage) 
 
-* [Usage](#usage)
+  * [License](#license)
 
-* [License](#license)
+  * [Contributing](#contributing)
 
-* [Contributing](#contributing)
+  * [Tests](#tests)
 
-* [Testing](#testing)
+  * [Questions](#questions)
 
-*[Demo](#GIF)
+  * [Demo](#GIF)
+
 
 ## Installation
 
@@ -28,16 +29,18 @@ npm i
 
 ## Usage
 
-It is used to streamline the readme process
+Type node index.js then answer the questions to make the ReadME.
 
 ## License
 
-ISC
+Information here
 
 ## Contributing
 
+* There was only one contributer. 
+
 ## Tests
 
-Jest
+npm run test
 
 
